@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @chao-long-1995
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m ChaoLongPiao, technical engineer from HongKong.
+- 👀 I’m interested in Blockchain and I love to build smart contracts with solidity and launch website with React.
+- 🌱 I’m currently learning AI and IoT and I feel that all knowledge in this world is reachable for me.
+- 💞️ I’m looking for a Blockchain engineer position and I want to create innovative solution and thrilling challenge.
 
-<!---
-chao-long-1995/chao-long-1995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
