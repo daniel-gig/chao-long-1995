@@ -7,7 +7,7 @@
 - 💞️ I’m looking for a Blockchain engineer position and I want to create innovative solution and thrilling challenge.
 
 - Languages and Environments:
-&nbsp;&nbsp;&nbsp;
+
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/16/bitcoin.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/16/ethereum.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/16/uniswap.png" />
