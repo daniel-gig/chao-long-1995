@@ -27,4 +27,3 @@
 ---
 
 <img align="left" alt="canove's Github Stats" src="https://github-readme-stats.vercel.app/api?username=eliben&show_icons=true&hide_border=true&theme=dark&hide_title=true" />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chao-long-1995&show_icons=true&theme=transparent)
